@@ -12,6 +12,8 @@
 <br>Visualize feature importance
 <br>Generate a correlation matrix
 <br>
+![image](https://github.com/eliza-ttt/AI-/assets/73555386/2e0fa911-9c03-4a03-bab9-803a1f061130)
+![img1](https://github.com/eliza-ttt/AI-/assets/73555386/0e30f887-199a-4da1-8564-071e46391bca)
 
 ![image1](https://github.com/eliza-ttt/AI-/assets/73555386/c267b94a-dc87-486c-9d8f-6632544ca253)
 ![image2](https://github.com/eliza-ttt/AI-/assets/73555386/d67f0d0a-cfb2-487c-aee0-0f7b28e665d7)
